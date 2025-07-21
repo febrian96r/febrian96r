@@ -30,7 +30,7 @@ Welcome to my digital command center. As a professional transitioning from Mecha
 *   **`[IN PROGRESS]`** 📄 **Incident Report: Palo Alto Networks Vulnerability (CVE-2024-3400)**
     *   *Focus: Analysis of network appliance vulnerabilities and command injection attacks.*
 
-*   **`[COMPLETED]`** 📄 **Incident Report: Lumma Stealer Malware (DLL Side-Loading)(https://github.com/febrian96r/Cybersecurity-Portfolio/blob/main/Incident_Report_Lumma_Stealer_SOC338.pdf)**
+*   **`[COMPLETED]`** 📄 **[Incident Report: Deconstructing a Lumma Stealer Attack](https://github.com/febrian96r/Cybersecurity-Portfolio/blob/main/Incident_Report_Lumma_Stealer_SOC338.pdf)**
     *   *Focus: Deconstruction of modern malware evasion techniques.*
 
 ---

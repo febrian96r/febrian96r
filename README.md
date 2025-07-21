@@ -1,4 +1,4 @@
-# Febrian Ramadhan | SOC Analyst Portfolio
+# Febrian Ramadhan | Cybersecurity Portfolio
 
 ### 🛡️ **Threat Detection & Incident Response Professional in Training**
 
@@ -22,15 +22,15 @@ Welcome to my digital command center. As a professional transitioning from Mecha
 
 *This section contains detailed reports from simulated incident response scenarios. Each report demonstrates a specific analytical capability.*
 
-**[Access Full Repository: SOC-Portfolio](https://github.com/febrian96r/SOC-Portfolio)**
+**[Access Full Repository: Cybersecurity-Portfolio](https://github.com/febrian96r/Cybersecurity-Portfolio)**
 
-*   **`[COMPLETED]`** 📄 **[Incident Report: Ransomware Containment & Response](https://github.com/febrian96r/SOC-Portfolio/blob/main/Incident_Report_Ransomware_SOC145.pdf)**
+*   **`[COMPLETED]`** 📄 **[Incident Report: Ransomware Containment & Response](https://github.com/febrian96r/Cybersecurity-Portfolio/blob/main/Incident_Report_Ransomware_SOC145.pdf)**
     *   *Demonstrates: Endpoint analysis, impact assessment, and TTP identification for high-impact destructive attacks.*
 
 *   **`[IN PROGRESS]`** 📄 **Incident Report: Palo Alto Networks Vulnerability (CVE-2024-3400)**
     *   *Focus: Analysis of network appliance vulnerabilities and command injection attacks.*
 
-*   **`[IN PROGRESS]`** 📄 **Incident Report: Lumma Stealer Malware (DLL Side-Loading)**
+*   **`[COMPLETED]`** 📄 **Incident Report: Lumma Stealer Malware (DLL Side-Loading)(https://github.com/febrian96r/Cybersecurity-Portfolio/blob/main/Incident_Report_Lumma_Stealer_SOC338.pdf)**
     *   *Focus: Deconstruction of modern malware evasion techniques.*
 
 ---

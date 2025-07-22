@@ -20,9 +20,7 @@ Welcome to my digital command center. As a professional transitioning from Mecha
 
 ### 📁 **Featured Intelligence Reports**
 
-*This section contains detailed reports from simulated incident response scenarios. Each report demonstrates a specific analytical capability.*
-
-**[Access Full Repository: Cybersecurity-Portfolio](https://github.com/febrian96r/Cybersecurity-Portfolio)**
+*This section contains detailed reports from simulated incident response scenarios. Each report demonstrates a specific analytical capability. All reports are stored in the **[Cybersecurity-Portfolio Repository](https://github.com/febrian96r/Cybersecurity-Portfolio)**.*
 
 *   **`[COMPLETED]`** 📄 **[Incident Report: Ransomware Containment & Response](https://github.com/febrian96r/Cybersecurity-Portfolio/blob/main/Incident_Report_Ransomware_SOC145.pdf)**
     *   *Demonstrates: Endpoint analysis, impact assessment, and TTP identification for high-impact destructive attacks.*
@@ -39,7 +37,7 @@ Welcome to my digital command center. As a professional transitioning from Mecha
 
 I am continuously developing my skills. My next operational goal is to building out a full Security Onion SIEM/NIDS environment in my home lab.
 
-**Contact:** [linkedin.com/in/febrian96r](https://www.linkedin.com/in/febrian96r/) | febrian96r@gmail.com```
+**Contact:** [linkedin.com/in/febrian96r](https://www.linkedin.com/in/febrian96r/) | febrian96r@gmail.com`
 
 ---
 

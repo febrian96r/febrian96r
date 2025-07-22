@@ -27,7 +27,7 @@ Welcome to my digital command center. As a professional transitioning from Mecha
 *   **`[COMPLETED]`** 📄 **[Incident Report: Ransomware Containment & Response](https://github.com/febrian96r/Cybersecurity-Portfolio/blob/main/Incident_Report_Ransomware_SOC145.pdf)**
     *   *Demonstrates: Endpoint analysis, impact assessment, and TTP identification for high-impact destructive attacks.*
 
-*   **`[COMPLETED]`** 📄 **[Incident Report: Palo Alto Networks Vulnerability (CVE-2024-3400](https://github.com/febrian96r/Cybersecurity-Portfolio/blob/main/Incident_Report_Palo_Alto_CVE-2024_3400.pdf)**
+*   **`[COMPLETED]`** 📄 **[Incident Report: Palo Alto Networks Vulnerability (CVE-2024-3400)](https://github.com/febrian96r/Cybersecurity-Portfolio/blob/main/Incident_Report_Palo_Alto_CVE-2024_3400.pdf)**
     *   *Focus: Analysis of network appliance vulnerabilities and command injection attacks.*
 
 *   **`[COMPLETED]`** 📄 **[Incident Report: Deconstructing a Lumma Stealer Attack](https://github.com/febrian96r/Cybersecurity-Portfolio/blob/main/Incident_Report_Lumma_Stealer_SOC338.pdf)**

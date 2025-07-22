@@ -27,7 +27,7 @@ Welcome to my digital command center. As a professional transitioning from Mecha
 *   **`[COMPLETED]`** 📄 **[Incident Report: Ransomware Containment & Response](https://github.com/febrian96r/Cybersecurity-Portfolio/blob/main/Incident_Report_Ransomware_SOC145.pdf)**
     *   *Demonstrates: Endpoint analysis, impact assessment, and TTP identification for high-impact destructive attacks.*
 
-*   **`[IN PROGRESS]`** 📄 **Incident Report: Palo Alto Networks Vulnerability (CVE-2024-3400)**
+*   **`[IN PROGRESS]`** 📄 **[Incident Report: Palo Alto Networks Vulnerability (CVE-2024-3400](https://github.com/febrian96r/Cybersecurity-Portfolio/blob/main/Incident_Report_Palo_Alto_CVE-2024_3400.pdf)**
     *   *Focus: Analysis of network appliance vulnerabilities and command injection attacks.*
 
 *   **`[COMPLETED]`** 📄 **[Incident Report: Deconstructing a Lumma Stealer Attack](https://github.com/febrian96r/Cybersecurity-Portfolio/blob/main/Incident_Report_Lumma_Stealer_SOC338.pdf)**
@@ -37,7 +37,7 @@ Welcome to my digital command center. As a professional transitioning from Mecha
 
 ### 📈 **Professional Trajectory**
 
-I am continuously developing my skills. My next operational goal is to complete the analysis for the `Palo Alto CVE` and `Lumma Stealer` reports, followed by building out a full Security Onion SIEM/NIDS environment in my home lab.
+I am continuously developing my skills. My next operational goal is to building out a full Security Onion SIEM/NIDS environment in my home lab.
 
 **Contact:** [linkedin.com/in/febrian96r](https://www.linkedin.com/in/febrian96r/) | febrian96r@gmail.com```
 
